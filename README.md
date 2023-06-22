@@ -1,4 +1,4 @@
-# RPS-Spock-lizard game
+# RPS-Spock-lizard game 🪨✋✌️🖖🦎
 
 Problem description : 
 
