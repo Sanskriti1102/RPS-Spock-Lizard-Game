@@ -10,6 +10,5 @@ Concepts Used :
 Programming Language:
  Python 🐍
 
-Learned from : 
-Microsoft Learn
+Learned from : Microsoft Learn
 
